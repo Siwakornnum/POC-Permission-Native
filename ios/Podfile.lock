@@ -335,8 +335,6 @@ PODS:
     - React-Core
   - react-native-screen-capture (0.2.3):
     - React
-  - react-native-sensitive-info (5.5.8):
-    - React
   - react-native-webview (13.3.1):
     - React-Core
   - React-perflogger (0.71.11)
@@ -508,7 +506,6 @@ DEPENDENCIES:
   - "react-native-blur (from `../node_modules/@react-native-community/blur`)"
   - react-native-multitask-blur (from `../node_modules/react-native-multitask-blur`)
   - react-native-screen-capture (from `../node_modules/react-native-screen-capture`)
-  - react-native-sensitive-info (from `../node_modules/react-native-sensitive-info`)
   - react-native-webview (from `../node_modules/react-native-webview`)
   - React-perflogger (from `../node_modules/react-native/ReactCommon/reactperflogger`)
   - React-RCTActionSheet (from `../node_modules/react-native/Libraries/ActionSheetIOS`)
@@ -592,8 +589,6 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-multitask-blur"
   react-native-screen-capture:
     :path: "../node_modules/react-native-screen-capture"
-  react-native-sensitive-info:
-    :path: "../node_modules/react-native-sensitive-info"
   react-native-webview:
     :path: "../node_modules/react-native-webview"
   React-perflogger:
@@ -666,7 +661,6 @@ SPEC CHECKSUMS:
   react-native-blur: cfdad7b3c01d725ab62a8a729f42ea463998afa2
   react-native-multitask-blur: b6353653283cb6b1a60f1892dbd4d7352e50e01f
   react-native-screen-capture: 75db9b051c41fea47fa68665506e9257d4b1dadc
-  react-native-sensitive-info: 400c6e3d27945e15c8cddb5b4b92233c85ee06f8
   react-native-webview: c2b70afb1d910cdd8810375aecc6c2894e2ba061
   React-perflogger: e706562ab7eb8eb590aa83a224d26fa13963d7f2
   React-RCTActionSheet: 57d4bd98122f557479a3359ad5dad8e109e20c5a

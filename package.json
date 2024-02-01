@@ -11,13 +11,15 @@
   },
   "dependencies": {
     "@react-native-community/blur": "^4.3.2",
+    "@react-native-firebase/analytics": "^18.3.1",
+    "@react-native-firebase/app": "^18.3.1",
+    "jail-monkey": "^2.8.0",
     "react": "18.2.0",
     "react-native": "0.71.11",
     "react-native-gesture-handler": "^2.12.1",
     "react-native-multitask-blur": "^0.1.5",
     "react-native-reanimated": "^3.4.1",
     "react-native-screen-capture": "^0.2.3",
-    "react-native-sensitive-info": "^5.5.8",
     "react-native-webview": "^13.3.1"
   },
   "devDependencies": {
